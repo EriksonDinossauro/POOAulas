@@ -17,8 +17,8 @@ Aluno de Programação de Jogos Digitais, eikson pedro.
 [Bacteria](https://eriksonnicacio.github.io/bacteria2/)
 
 
-3. piramid escape
-[Pyramid Escape](https://jldifrn.github.io/PyramidEscape/)
+3. piramid escape  
+[Pyramid Escape](https://jldifrn.github.io/PyramidEscape/)  
 * * *  
 ## Artes  
 ![](http://www.fotolip.com/wp-content/uploads/2016/05/Minecraft-Pixel-Art-Templates-6.jpg)
