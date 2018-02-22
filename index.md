@@ -4,7 +4,7 @@ layout: default
 
 Text can be **minha**, _pagina_, or ~~principal~~.
 # Quem sou eu!?
-Aluno de Programação de Jogos Digitais, eikson pedro.
+Aluno de Programação de Jogos Digitais, Eikson Pedro.
 * * * 
 # Portifólio 
 
