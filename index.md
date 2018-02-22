@@ -13,11 +13,12 @@ Aluno de Programação de Jogos Digitais, eikson pedro.
 1. piramid escape  
 [express manesage](https://eriksonnicacio.github.io/New%20project/)
 
-1. Bacteria  
+2. Bacteria  
 [Bacteria](https://eriksonnicacio.github.io/bacteria2/)
 
 
-2. predador
+3. piramid escape
+[Pyramid Escape](https://jldifrn.github.io/PyramidEscape/)
 * * *  
 ## Artes  
 ![](http://www.fotolip.com/wp-content/uploads/2016/05/Minecraft-Pixel-Art-Templates-6.jpg)
