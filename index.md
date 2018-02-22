@@ -21,7 +21,6 @@ Aluno de Programação de Jogos Digitais, eikson pedro.
 [Pyramid Escape](https://jldifrn.github.io/PyramidEscape/)  
 * * *  
 ## Artes 
-1. logo bacteria game
 ![](CABEÇA_TITULO.png)
 
 ![](site2.png)
