@@ -11,7 +11,7 @@ Aluno de Programação de Jogos Digitais, eikson pedro.
 * * *  
 ## Games  
 1. piramid escape  
-[express manesage](https://eriksonnicacio.github.io/New project)
+[express manesage](https://eriksonnicacio.github.io/Newproject)
 
 2. express mensage
 [express mensage](https://eriksonnicacio.github.io/New project)
