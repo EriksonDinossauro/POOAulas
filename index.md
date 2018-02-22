@@ -23,7 +23,7 @@ Aluno de Programação de Jogos Digitais, eikson pedro.
 ## Artes 
 ![](CABEÇA_TITULO.png)
 
-![](site2.png)
+![](COMPLETO.png)
 
 
 * * *  
